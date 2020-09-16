@@ -1,0 +1,35 @@
+.hot{
+    background: url("https://i.pinimg.com/736x/fe/f1/53/fef153c72b9b8d96f7cddc1a2b504bd3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.warmly{
+    background: url("https://avatars.mds.yandex.net/get-pdb/918543/5b4193cb-ec80-4a68-be46-8205da69b78d/s1200");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.normal{
+    background: url("https://avatars.mds.yandex.net/get-pdb/2997442/aaa9de4b-40fe-4374-b43e-1483a30240c0/s1200?webp=false");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cold{
+    background: url("http://s1.fotokto.ru/photo/full/94/948263.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.veryCold{
+    background: url("https://avatars.mds.yandex.net/get-pdb/2269198/f6b4ea0d-09ed-4c8c-8c48-12b787590c95/s1200");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hell{
+    background: url("https://s.afisha.ru/mediastorage/2f/82/2de3ebe594e04cf89be27fca822f.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
